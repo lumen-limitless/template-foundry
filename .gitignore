@@ -1,0 +1,11 @@
+cache/
+out/
+docs/
+broadcast/
+deployments/
+
+solstat_report.md
+
+.env
+
+.DS_Store
