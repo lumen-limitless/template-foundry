@@ -31,10 +31,10 @@ runs = 10_000
 
 [rpc_endpoints]
 mainnet = "${RPC_URL_MAINNET}"
+sepolia = "${RPC_URL_SEPOLIA}"
 arbitrum = "${RPC_URL_ARBITRUM}"
 avalanche = "${RPC_URL_AVALANCHE}"
 fantom = "${RPC_URL_FANTOM}"
-goerli = "${RPC_URL_GOERLI}"
 optimism = "${RPC_URL_OPTIMISM}"
 polygon = "${RPC_URL_POLYGON}"
 base = "${RPC_URL_BASE}"
