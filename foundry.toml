@@ -2,10 +2,10 @@
 [profile.default]
 src = "src"
 out = "out"
-libs = ["lib"]
-solc = "0.8.20"
+libs = ["lib", "nodule_modules"]
+solc = "0.8.25"
 auto_detect_solc = false
-evm_version = "paris"      # default to paris due to lack of PUSH0 support
+evm_version = "cancun"
 verbosity = 1
 gas_reports = ["*"]
 optimize = true
